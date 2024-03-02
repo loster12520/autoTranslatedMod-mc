@@ -1,6 +1,6 @@
 {
-  "APP_KEY": "4f590557a6928a1d",
-  "APP_SECRET": "zuyXUQpVe0Tt6EFjOqXVoUpy4Tm6EEmn",
+  "APP_KEY": "your app key",
+  "APP_SECRET": "your app secret",
   "outputPath": "output/",
   "description": "Machine translation by youdao"
 }
